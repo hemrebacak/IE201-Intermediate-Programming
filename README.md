@@ -3,7 +3,7 @@
 
 # IE 201 Intermediate Programming Spring 2023
 
-Class schedule: Monday 9:00-11:00 Wednesday 9:00-11:00
+Class schedule: Wednesday 9:00-11:00 Thursday 9:00-11:00
 
 Instructor: A. Tamer Ünal (unaltam@boun.edu.tr)
 TA: Burak Nur Erdem (burak.erdem@boun.edu.tr)
